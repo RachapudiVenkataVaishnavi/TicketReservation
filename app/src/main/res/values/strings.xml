@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Ticket Reservation</string>
+    <string name="button_createTicket_label">Create Ticket</string>
+    <string name="button_editTicket_label">Edit Ticket</string>
+    <string name="button_deleteTicket_label">Delete Ticket</string>
+    <string name="button_viewTicket_label">View Ticket</string>
+    <string name="button_finish_label">Finish</string>
+    <string name="textView_custCare_label">Customer Care: 999-999-9999</string>
+    <string name="radioButton_oneWay_label">One-way</string>
+    <string name="radioButton_roundTrip_label">Round-trip</string>
+    <string name="button_selectTicket_label">Select Ticket</string>
+    <string name="button_save_label">Save</string>
+    <string name="button_delete_label">Delete</string>
+    <string name="button_cancel_label">Cancel</string>
+    <string name="textView_itinerary_label">ITINERARY</string>
+    <string name="textView_return_label">Return:</string>
+    <string name="textView_departure_label">Departure:</string>
+    <string name="textView_destination_label">Destination:</string>
+    <string name="textView_source_label">Source:</string>
+    <string name="textView_name_label">Name:</string>
+    <string name="button_printSummary">Print Summary</string>
+</resources>
